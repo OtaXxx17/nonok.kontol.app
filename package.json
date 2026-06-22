@@ -1,0 +1,10 @@
+{
+  "name": "bangsat",
+  "version": "1.0.0",
+  "displayName": "Bangsat",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
